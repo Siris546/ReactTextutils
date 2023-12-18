@@ -21,7 +21,7 @@ function App() {
   else{
     setMode('light');
     document.body.style.backgroundColor= 'white';
-    showAlert("Lightmode has been enabled.","success");
+    showAlert("Lightmode has been enabledo.","success");
   }
   }
 
